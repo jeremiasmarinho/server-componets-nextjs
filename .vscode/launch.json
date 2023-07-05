@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    
+    {
+      "type": "msedge",
+      "name": "http://*.visualStudio.microsoft.com",
+      "request": "launch",
+      "url": "http://*.visualStudio.microsoft.com"
+    }
+  ]
+}
